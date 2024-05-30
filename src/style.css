@@ -1,0 +1,22 @@
+.footer{
+    bottom: 0px !important;
+    position: fixed !important;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    background-color: lightgray; 
+    background-image: url("https://t3.ftcdn.net/jpg/06/93/37/10/240_F_693371018_kutxSawxWKEc94UO0SqjFyWeFvA6kxhD.jpg"); 
+}
+.navbar{
+    /* top: 0px !important;
+    position: fixed !important; */
+    background-color:bisque;
+    background-image: url("https://t3.ftcdn.net/jpg/06/93/37/10/240_F_693371018_kutxSawxWKEc94UO0SqjFyWeFvA6kxhD.jpg"); 
+}
+.form{
+    background-image: url("https://t3.ftcdn.net/jpg/06/54/39/02/240_F_654390267_U43Lrvp06jUN5v8I5U2G64JJ5KsQI0hV.jpg");
+    background-size: cover;
+    text-align: center;
+    padding-top: 250px;
+    padding-bottom: 200px;  
+} 
